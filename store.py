@@ -1,6 +1,3 @@
-import products
-
-
 class Store:
     """Class created to manipulate the information of products in store"""
     def __init__(self, product_list):
